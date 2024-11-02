@@ -1,0 +1,28 @@
+Description
+
+Mood Meter is a user-friendly tool designed to help users express and monitor their emotions. The application features:
+
+- A user-selectable mood meter with six emotions (Happy, Neutral, Sad, Angry, Excited, Fearful)
+- Corresponding emojis to visually represent the chosen mood
+- Inspirational messages displayed randomly every 5 seconds
+- A pop-up message box providing guidance based on the selected mood
+
+Features
+
+- Interactive mood selection buttons
+- Emojis representing different emotions
+- Random inspirational quotes
+- Customizable fonts, colors, and background
+
+Requirements
+
+- Python 3.x
+- Tkinter library
+- Random library
+
+
+Code Highlights
+
+- Utilizes Tkinter for GUI design
+- Employs Python's random library for inspirational quotes
+- Demonstrates simple event-driven programming with button commands
