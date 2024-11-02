@@ -1,0 +1,15 @@
+Description
+
+A basic digital clock displaying hours, minutes, seconds, and AM/PM. This project utilizes Tkinter for a clean GUI and Python's time module for accurate timekeeping.
+
+Features
+
+- Displays current time in HH:MM:SS AM/PM format
+- Updates every second for real-time accuracy
+- Customizable font, color, and background
+- Lightweight and easy to run
+
+Requirements
+
+- Python 3.x
+- Tkinter library
